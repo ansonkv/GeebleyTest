@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextHeight">36dp</dimen>
+    <dimen name="titleTextSize">18sp</dimen>
+    <dimen name="textSize">16dp</dimen>
+    <dimen name="drawablePadding">4dp</dimen>
+    <dimen name="layoutMargin">16dp</dimen>
+</resources>

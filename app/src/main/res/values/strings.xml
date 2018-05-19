@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnsonGeebleyTest</string>
+    <string name="menu">Menu</string>
+    <string name="special_instructions">Special Instructions</string>
+    <string name="addToCart">Add To Cart</string>
+
+</resources>
